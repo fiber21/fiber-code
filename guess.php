@@ -8,7 +8,7 @@
 // the second parameter we can put the strtotime function
 // this function has parameter like now , tomorrow, and yesterday but the cool thing is you can just type date month year
 
-date("l", strtotime("26 mar 2001"));
+date("l", strtotime("30 jan 2001"));
 
 
 
